@@ -12,5 +12,5 @@ def second_challenge
 
   
 groceries.min  
-binding.pry 
+
 end
